@@ -12,9 +12,6 @@ Le studio des geekis est un groupe regroupant plusieurs projets.
   <img src="https://discordapp.com/api/guilds/938769960572960829/widget.png?style=banner4">
   </a>
   </div
-
+  
   <div align = "center">
-  <a href="https://www.youtube.com/channel/UClgeTQQ8E-O1wwqOC0UlnMA">
-  <img src="https://user-images.githubusercontent.com/89143083/168467823-049f2e1d-a5dc-4be4-80a2-ffa0e14cf45f.png">
-  </a>
   </div>
