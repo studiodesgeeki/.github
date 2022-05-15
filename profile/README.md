@@ -17,4 +17,4 @@ Le studio des geekis est un groupe regroupant plusieurs projets.
   <a href="https://www.youtube.com/channel/UClgeTQQ8E-O1wwqOC0UlnMA">
   <img src="https://user-images.githubusercontent.com/89143083/168467823-049f2e1d-a5dc-4be4-80a2-ffa0e14cf45f.png">
   </a>
-</div>
+  </div>
